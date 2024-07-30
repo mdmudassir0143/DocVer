@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+input[type="file"] {
+  margin: 2rem 0;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+}
+
+p {
+  word-break: break-all;
+  background: #f0f0f0;
+  padding: 1rem;
+  border-radius: 8px;
+}
